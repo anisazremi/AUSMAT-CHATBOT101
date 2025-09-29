@@ -1,0 +1,12 @@
+text = "Reza"
+age = 18
+print(text, ",", age)
+text2 = "Elsa"
+age2 = 18
+print(text2, ",", age2)
+text3 = "Chloe"
+age3 = 18
+print(text3, ",", age3)
+text4 = "Jerene" 
+age4 = 18
+print(text4, ",", age4)
